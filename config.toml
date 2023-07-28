@@ -1,5 +1,5 @@
 
-baseURL = "http://yaki.live/"
+baseURL = "https://yaki.live/"
 
 # Change the default theme to be use when building the site with Hugo
 theme = "LoveIt"
